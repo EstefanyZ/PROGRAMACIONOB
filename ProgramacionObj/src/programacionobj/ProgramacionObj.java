@@ -18,6 +18,12 @@ public class ProgramacionObj {
        String mensaje="";
        mensaje="hola chicos";
         System.out.println(mensaje);
+        int n1;
+        int n2;
+        int suma=0;
+        suma=n1+n2;
+        System.out.println(suma);
+        
     }
     
 }
